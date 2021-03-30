@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Tom Hogendoorn GitHub Pages
+
+Here I will start the description of my new project
 
 You can use the [editor on GitHub](https://github.com/thogendoorn/thogendoorn.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
